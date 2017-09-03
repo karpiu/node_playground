@@ -1,6 +1,6 @@
 var _ = require('lodash');
 
-var people = [{
+let people = [{
   "id": 1,
   "first_name": "Katti",
   "last_name": "Gathercole",
